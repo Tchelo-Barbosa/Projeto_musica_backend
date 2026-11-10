@@ -4,10 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/assets_readme/laptop.gif" width="300" alt="Gato programador">
-</p>
-
 ## Sobre & Funcionalidades
 
 Sistema responsivo para cadastro e controle de catálogo musical com foco em segurança e boa organização de dados.
@@ -43,3 +39,6 @@ sistema-musical/
 ```
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tchelo-Barbosa/Projeto_musica_backend/main/assets_readme/laptop.gif" width="200" alt="Gato programador">
+</p>
